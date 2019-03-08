@@ -1,0 +1,7 @@
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class4\homework04\homework04\obj\Debug\homework04.csprojAssemblyReference.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class4\homework04\homework04\obj\Debug\homework04.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class4\homework04\homework04\bin\Debug\homework04.exe.config
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class4\homework04\homework04\bin\Debug\homework04.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class4\homework04\homework04\bin\Debug\homework04.pdb
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class4\homework04\homework04\obj\Debug\homework04.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class4\homework04\homework04\obj\Debug\homework04.pdb
