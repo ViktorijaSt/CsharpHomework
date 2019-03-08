@@ -1,0 +1,7 @@
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\New folder\homework2\App1\bin\Debug\App1.exe.config
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\New folder\homework2\App1\bin\Debug\App1.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\New folder\homework2\App1\bin\Debug\App1.pdb
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\New folder\homework2\App1\obj\Debug\App1.csprojAssemblyReference.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\New folder\homework2\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\New folder\homework2\App1\obj\Debug\App1.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\New folder\homework2\App1\obj\Debug\App1.pdb

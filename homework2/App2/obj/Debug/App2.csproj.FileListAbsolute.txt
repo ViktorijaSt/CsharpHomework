@@ -1,0 +1,6 @@
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\HomeWork02\homework2\App2\bin\Debug\App2.exe.config
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\HomeWork02\homework2\App2\bin\Debug\App2.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\HomeWork02\homework2\App2\bin\Debug\App2.pdb
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\HomeWork02\homework2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\HomeWork02\homework2\App2\obj\Debug\App2.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class2\HomeWork02\homework2\App2\obj\Debug\App2.pdb
