@@ -1,0 +1,7 @@
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\homework5\mail\bin\Debug\mail.exe.config
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\homework5\mail\bin\Debug\mail.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\homework5\mail\bin\Debug\mail.pdb
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\homework5\mail\obj\Debug\mail.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\homework5\mail\obj\Debug\mail.exe
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\homework5\mail\obj\Debug\mail.pdb
+C:\Users\Viktorija\Desktop\SEAVUS\C#\Class5\homework5\mail\obj\Debug\mail.csprojAssemblyReference.cache
